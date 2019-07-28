@@ -1,0 +1,8 @@
+com/learn/spring/controller/UserController.class
+com/learn/spring/service/UserService.class
+com/learn/spring/bean/User.class
+com/learn/spring/dao/UserDaoImp.class
+com/learn/spring/service/UserServiceImp.class
+com/learn/Application.class
+com/learn/spring/configuration/HibernateConfiguration.class
+com/learn/spring/dao/UserDao.class
